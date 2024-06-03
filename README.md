@@ -1,9 +1,6 @@
 # Dashboard
 A dashboard with data about Laboratoria's students. 
 
-## Motivation
-It was the final project of the third sprint of Laboratoria bootcamp. Working in pairs, it was necessary to create a desktop website to be used by Laboratoria's trainning managers. Where it would be possible to verify data of students, mentors and the institution in general. These information should be grouped in headquarters and your classes.
-
 ## Appearance
 ![App map](./assets/images/dashboard.png)
 
